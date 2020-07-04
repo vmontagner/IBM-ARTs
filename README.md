@@ -8,3 +8,8 @@ In the "csv" and "fitness" folders are the files generated over the simulations.
 In the "Simulation" folder are the .r codes needed to perform the simulations from the beginning.
 
 In the folder "PRCC" there is the code that calculates the PRCC values presented in the results table of the manuscript.
+
+-------
+
+Contact info: vini.montagner@gmail.com
+Vinicius Montagner
