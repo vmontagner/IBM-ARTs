@@ -3,8 +3,6 @@ English below
 
 Repositório com os arquivos criados e gerados durante o projeto de mestrado de Vinicius Montagner, sob orientação de Danilo G. Muniz, no Programa de Pós-Graduação em Ecologia da Universidade de São Paulo. O projeto é intitulado "Interação entre a seleção sexual pré e pós-copulatória e sua influência na evolução de táticas reprodutivas alternativas". Em resumo, criei um modelo baseado em indivíduo (IBM) e procurei entender como os estágios pré e pós-copulatórios da seleção sexual, e a interação entre os estágios, influenciam a evolução de táticas reprodutivas alternativas. As táticas reprodutivas que estou simulando são aquelas táticas condicionais, que apresentam uma interação entre um fator genético e uma pista ambiental.
 
--------
-
 Nas pastas "csv" e "fitness" estão os arquivos gerados nas simulações. Cada arquivo presente em "csv" apresenta todas as variáveis resposta em cada geração. Cada arquivo em "fitness" apresenta dados de fitness para cada indivíduo na geração 400 da simulação x.
 
 Na pasta "Simulação" estão os códigos .r necessários para realizar as simulações desde o início.
